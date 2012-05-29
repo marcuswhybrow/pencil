@@ -1,4 +1,4 @@
-bukkit-graphite
-===============
+Pencil
+======
 
 A Minecraft Bukkit plugin that squirts data to a Graphite server.
